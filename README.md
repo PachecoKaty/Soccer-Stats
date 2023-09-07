@@ -1,33 +1,29 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Soccer Stats
+This project focuses on obtaining and displaying statistics from selected sports leagues through the 'data-football' API with PHP and Javascript.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-The main idea of ​​the project is to replicate it. 
+This project consumes a soccer statistics API and provides information on the matches played by each team and the league that has been selected, creating a fast and efficient interface when displaying the data.
+
+### API access:
+
+To get the most out of this project, an access token is required, which is obtained by creating an account on the 'https://www.football-data.org/' platform. This token ensures that users can access API data in an authorized and secure manner.
 ### Screenshot
 
-![](ss/ss-solution.jpg)
-
-
-### Links
-
-- Solution URL: [QR_page](https://your-solution-url.com)
+![Index app](ss/Tournament-index.jpg)
 
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- PHP: Use PHP to make requests to the 'data-football' API and process the data.
+- cURL: The cURL library is used to handle HTTP requests and communicate efficiently with the API.
+- AJAX: Implement AJAX to dynamically update the user interface with data obtained from the API, providing an interactive experience in real time.
+- Bootstrap
 
 ## Author
 

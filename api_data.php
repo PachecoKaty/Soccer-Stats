@@ -10,7 +10,7 @@
 
         CURLOPT_URL => 'https://api.football-data.org/v4/competitions/' .$code. '/standings',
         // Use array for set up header
-        CURLOPT_HTTPHEADER => array('X-Auth-Token: 5aae9f3ca6c840c79937939aa4f77491'), 
+        CURLOPT_HTTPHEADER => array('X-Auth-Token:-Your-token-here'), 
         //Transfer data
         CURLOPT_RETURNTRANSFER => TRUE
     );

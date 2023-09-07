@@ -1,5 +1,5 @@
 # Soccer Stats
-This project focuses on obtaining and displaying statistics from selected sports leagues through the 'data-football' API with PHP and Javascript.
+This project focuses on obtaining and displaying statistics from selected sports leagues through the 'data-football' API with PHP and Javascript
 
 ## Table of contents
 

@@ -15,7 +15,9 @@ This project consumes a soccer statistics API and provides information on the ma
 To get the most out of this project, an access token is required, which is obtained by creating an account on the 'https://www.football-data.org/' platform. This token ensures that users can access API data in an authorized and secure manner.
 ### Screenshot
 
-![Index app](ss/Tournament-index.jpg)
+![Index app](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-index.png)
+![Tournament-table](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-result.png)
+1[Tournament](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-table.png)
 
 
 ### Built with

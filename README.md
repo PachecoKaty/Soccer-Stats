@@ -17,7 +17,7 @@ To get the most out of this project, an access token is required, which is obtai
 
 ![Index app](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-index.png)
 ![Tournament-table](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-result.png)
-1[Tournament](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-table.png)
+![Tournament](https://github.com/PachecoKaty/Soccer-Stats/blob/main/ss/Tournament-table.png)
 
 
 ### Built with
